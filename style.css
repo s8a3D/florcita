@@ -58,6 +58,6 @@ body {
 
   @media only screen and (max-width: 600px) {
     .flor, .petalo {
-        transform: scale(0.9);
+        transform: scale(0.8);
     }
   }
